@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# tallerGit2 paola
+=======
 # tallerGit2
 <<<<<<< HEAD
 Diego
